@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("djenus_csharp_api_rest_de_health_check_566f2c")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+598ba52c606eeb8f3f57c0bded59f098b4941c67")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1b45b6c9b301d37bed58b9fe5394dac87f19c85c")]
 [assembly: System.Reflection.AssemblyProductAttribute("djenus_csharp_api_rest_de_health_check_566f2c")]
 [assembly: System.Reflection.AssemblyTitleAttribute("djenus_csharp_api_rest_de_health_check_566f2c")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -2,3 +2,13 @@ D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\obj\
 D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\obj\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.AssemblyInfoInputs.cache
 D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\obj\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.AssemblyInfo.cs
 D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\obj\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.csproj.CoreCompileInputs.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\bin\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.exe
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\bin\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.deps.json
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\bin\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.runtimeconfig.json
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\bin\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\bin\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.pdb
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\obj\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\obj\Debug\net8.0\refint\djenus_csharp_api_rest_de_health_check_566f2c.dll
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\obj\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.pdb
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\obj\Debug\net8.0\djenus_csharp_api_rest_de_health_check_566f2c.genruntimeconfig.cache
+D:\Projetos\GitAuto\workspace\djenus-csharp-api-rest-de-health-check-566f2c\obj\Debug\net8.0\ref\djenus_csharp_api_rest_de_health_check_566f2c.dll
