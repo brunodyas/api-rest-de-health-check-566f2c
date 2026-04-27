@@ -1,3 +1,3 @@
 # Notas
 
-Protótipo que deduplica pedidos por chave em memória — estudo de desenho para APIs.
+Serviço HTTP mínimo com GET /health devolvendo JSON de estado (sem dependências externas).
