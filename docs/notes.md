@@ -1,3 +1,3 @@
 # Notas
 
-Serviço HTTP mínimo com GET /health devolvendo JSON de estado (sem dependências externas).
+Utilitário que combina dois JSON com regras simples (deep merge superficial).
